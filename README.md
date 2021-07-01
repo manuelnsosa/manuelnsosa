@@ -12,12 +12,12 @@ const manuelnsosa = {
 }
 ```
 ## I'm a Full Stack Developer. 
-
+- 👉 I'm working on the final project for [Henry's bootcamp][course]!
 - ⚡ I've just finished my individual project for [Henry's bootcamp][course]!
-- 🌱 I’m currently learning everything 🤣
+- 📖 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Facts: I love meeting friends, drinking mate and going for walks.
+- 🐶🐱 I have a dog (Oliver) and a cat (Eva).
 
 ### Spotify Playing 🎧
 
