@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Developer. 
 
-- ⚡ I've just finished my individual project for Henry's bootcamp: [Become A VS Code SuperHero!][course]!
+- ⚡ I've just finished my individual project for [Henry's bootcamp][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
