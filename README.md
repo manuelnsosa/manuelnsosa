@@ -20,6 +20,8 @@ const manuelnsosa = {
 - 🐶🐱 I have a dog (Oliver) and a cat (Eva).
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelnsosa&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelnsosa&layout=compact)](https://github.com/manuelnsosa/github-readme-stats)
+
 
 
 ### Spotify Playing 🎧
