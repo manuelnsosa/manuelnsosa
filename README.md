@@ -19,7 +19,7 @@ const manuelnsosa = {
 - ⚡ Facts: I love meeting friends, drinking mate and going for walks.
 - 🐶🐱 I have a dog (Oliver) and a cat (Eva).
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelnsosa)](https://git.io/streak-stats)
+![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelnsosa&count_private=true)
 
 
 ### Spotify Playing 🎧
