@@ -17,7 +17,6 @@ const manuelnsosa = {
 - 📖 I’m currently learning everything and more.
 - 👯 I’m looking to collaborate and connect  with other content creators.
 - ⚡ Facts: I love meeting friends, drinking mate and going for walks.
-- 🐶🐱 I have a dog (Oliver) and a cat (Eva).
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelnsosa&count_private=true)
 
