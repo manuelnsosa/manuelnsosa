@@ -11,13 +11,16 @@ const manuelnsosa = {
  openToLearn: true,
 }
 ```
-## I'm a Full Stack Developer. 
+## I'm a Full Stack Developer from Rosario, Argentina.
 - 👉 I'm working on the final project for [Henry's bootcamp][course]!
-- ⚡ I've just finished my individual project for [Henry's bootcamp][course]!
-- 📖 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other content creators
+- ✔️ I've just finished my individual project for [Henry's bootcamp][course]!
+- 📖 I’m currently learning everything and more.
+- 👯 I’m looking to collaborate and connect  with other content creators.
 - ⚡ Facts: I love meeting friends, drinking mate and going for walks.
 - 🐶🐱 I have a dog (Oliver) and a cat (Eva).
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelnsosa)](https://git.io/streak-stats)
+
 
 ### Spotify Playing 🎧
 
