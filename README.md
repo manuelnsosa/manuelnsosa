@@ -6,7 +6,7 @@
 const manuelnsosa = {
  pronouns: "he" | "him",
  code: ['Javascript', 'HTML', 'CSS'],
- tools: ['React', 'Redux', 'Node', 'Express', 'Styled-Components', 'Sequelize', 'PostgreSQL', 'Jest'],
+ tools: ['React', 'Redux', 'Node', 'Express', 'Styled-Components', 'Sequelize', 'PostgreSQL', 'MongoDB', 'Jest'],
  openToWork: true,
  openToLearn: true,
 }
