@@ -5,8 +5,8 @@
 ```js
 const manuelnsosa = {
  pronouns: "he" | "him",
- code: ['Javascript', 'HTML', 'CSS'],
- tools: ['React', 'Redux', 'Node', 'Express', 'Styled-Components', 'Sequelize', 'PostgreSQL', 'MongoDB', 'Jest'],
+ code: ['Javascript', 'HTML', 'CSS', 'TypeScript'],
+ tools: ['React', 'Redux', 'Node', 'Express', 'Styled-Components', 'Sequelize', 'PostgreSQL', 'MongoDB', 'Jest', 'React Testing Library'],
  openToWork: true,
  openToLearn: true,
 }
