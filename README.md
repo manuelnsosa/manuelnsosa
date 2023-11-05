@@ -11,32 +11,6 @@ const manuelnsosa = {
  openToLearn: true,
 }
 ```
-## I'm a Full Stack Developer from Rosario, Argentina.
-- 👉 I'm working on the final project for [Henry's bootcamp][course]!
-- ✔️ I've just finished my individual project for [Henry's bootcamp][course]!
-- 📖 I’m currently learning everything and more.
-- 👯 I’m looking to collaborate and connect  with other content creators.
-- ⚡ Facts: I love meeting friends, drinking mate and going for walks.
-
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelnsosa&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelnsosa&layout=compact)](https://github.com/manuelnsosa/github-readme-stats)
-
-
-
-<!--### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
--->
-<br />
 
 ### Languages and Tools:
 
